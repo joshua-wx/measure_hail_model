@@ -1,0 +1,11 @@
+name: hail-shape
+channels:
+ - conda-forge
+dependencies:
+ - nb_conda
+ - jupyterlab
+ - tqdm
+ - matplotlib
+ - numpy
+ - numpy-stl
+ - scipy
