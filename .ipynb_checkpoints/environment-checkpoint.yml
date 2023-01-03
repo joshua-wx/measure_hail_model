@@ -7,5 +7,12 @@ dependencies:
  - tqdm
  - matplotlib
  - numpy
- - numpy-stl
  - scipy
+ - pandas
+ - trimesh
+ - shapely
+ - rtree
+ - networkx
+ - pyglet
+ - scikit-image
+ - ipympl
