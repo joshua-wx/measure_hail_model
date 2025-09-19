@@ -10,6 +10,7 @@ dependencies:
  - scipy
  - pandas
  - trimesh
+ - stl
  - shapely
  - rtree
  - networkx
